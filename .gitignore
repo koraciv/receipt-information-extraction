@@ -1,0 +1,18 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Image & Data files
+data/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# OS generated files
+.DS_Store
